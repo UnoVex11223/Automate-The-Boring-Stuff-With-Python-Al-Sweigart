@@ -18,7 +18,7 @@ Each chapter folder contains:
 ## 🗂 Chapters & Links
 
 ### 🔹 Chapter 7 – Dictionaries and Structuring Data
-- [Notes:(./Chapter07_Dictionaries/Notes_Chapter7.md)
+- [Notes:(./Chapter07_Dictionaries/Notes_Chapter7.md)]
 - [Practice Problems: (./Chapter07_Dictionaries/Ch7_ChessboardSimulator.py)
 
 ---
