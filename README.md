@@ -16,7 +16,7 @@ Each chapter folder contains:
 ## 🗂 Chapters & Links
 
 ### 🔹 Chapter 7 – Dictionaries and Structuring Data
-- [Problem 1: Chess Dictionary Validator](./Chapter7/Chess_Dictionary_Validator.py)
+- [Problem 1: Chess Dictionary Validator](./Chapter_7/Chess_Dictionary_Validator.py)
 
 ---
 
