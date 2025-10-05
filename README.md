@@ -18,32 +18,28 @@ Each chapter folder contains:
 ## 🗂 Chapters & Links
 
 ### 🔹 Chapter 7 – Dictionaries and Structuring Data
-- [Notes: The Dictionary Data Type](./Chapter07_Dictionaries/Notes_Chapter7.md)
-- [Practice Problem: Interactive Chessboard Simulator](./Chapter07_Dictionaries/Ch7_ChessboardSimulator.py)
+- [Notes:(./Chapter07_Dictionaries/Notes_Chapter7.md)
+- [Practice Problems: (./Chapter07_Dictionaries/Ch7_ChessboardSimulator.py)
 
 ---
 
 ### 🔹 Chapter 8 – Strings and Text Editing
-- [Notes: String Methods and F-Strings](./Chapter08_Strings/Notes_Chapter8.md)
-- [Practice Problem: Table Printer](./Chapter08_Strings/Ch8_TablePrinter.py)
+- (coming soon)
 
 ---
 
 ### 🔹 Chapter 9 – Text Pattern Matching with Regular Expressions
-- [Notes: RegEx Syntax and Grouping](./Chapter09_Regex/Notes_Chapter9.md)
-- [Practice Problem: Phone and Email Extractor](./Chapter09_Regex/Ch9_PhoneEmailExtractor.py)
+- (coming soon)
 
 ---
 
 ### 🔹 Chapter 10 – Reading and Writing Files
-- [Notes: Filepaths and File I/O Process](./Chapter10_Files/Notes_Chapter10.md)
-- [Practice Problem: Mad Libs](./Chapter10_Files/Ch10_MadLibs.py)
+- (coming soon)
 
 ---
 
 ### 🔹 Chapter 11 – Organizing Files
-- [Notes: The `shutil` and `os` Modules](./Chapter11_OrganizingFiles/Notes_Chapter11.md)
-- [Practice Problem: Deleting Big Files](./Chapter11_OrganizingFiles/Ch11_DeleteBigFiles.py)
+- (coming soon)
 
 ---
 
