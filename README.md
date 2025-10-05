@@ -1,4 +1,4 @@
-# 🐍 Automate the Boring Stuff with Python (3rd Ed.) – Practice & Notes
+# Automate the Boring Stuff with Python (3rd Ed.) – Practice & Notes
 
 This repository contains my **notes**, **practice scripts**, and **solutions** while working through the **3rd Edition** of *Automate the Boring Stuff with Python* by Al Sweigart. 
 
