@@ -1,6 +1,6 @@
 # Automate the Boring Stuff with Python (3rd Ed.) – Practice & Notes
 
-This repository contains my **notes**, **practice scripts**, and **solutions** while working through the **3rd Edition** of *Automate the Boring Stuff with Python* by Al Sweigart. 
+This repository contains my **practice scripts** and **solutions** while working through the **3rd Edition** of *Automate the Boring Stuff with Python* by Al Sweigart. 
 
 It serves as a practical, hands-on resource for learning **Python fundamentals** and applying them to **real-world automation tasks**. 
 
@@ -9,8 +9,6 @@ It serves as a practical, hands-on resource for learning **Python fundamentals**
 ## 📂 Repository Structure
 
 Each chapter folder contains:
-
-- **Notes** 📝 (Markdown files for key concepts, syntax, and summaries)
 - **Practice Scripts/Solutions** (Python files for chapter projects, practice problems, and personal automation scripts)
 
 ---
@@ -18,7 +16,6 @@ Each chapter folder contains:
 ## 🗂 Chapters & Links
 
 ### 🔹 Chapter 7 – Dictionaries and Structuring Data
-- [Notes:(./Chapter07_Dictionaries/Notes_Chapter7.md)]
 - [Practice Problems: (./Chapter07_Dictionaries/Ch7_ChessboardSimulator.py)
 
 ---
