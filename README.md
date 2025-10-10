@@ -28,6 +28,7 @@ Each chapter folder contains:
 
 ### 🔹 Chapter 9 – Text Pattern Matching with Regular Expressions
 - [Problem 1: Strong Password Detection](./Chapter_9/Strong_Password_Detection.py)
+- [Problem 2: Regex Version of the strip() Method](./Chapter_9/Strip_Function.py)
 
 ---
 
