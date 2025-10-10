@@ -27,7 +27,7 @@ Each chapter folder contains:
 ---
 
 ### 🔹 Chapter 9 – Text Pattern Matching with Regular Expressions
-- (coming soon)
+- [Problem 1: Strong Password Detection](./Chapter_9/Strong_Password_Detection.py)
 
 ---
 
