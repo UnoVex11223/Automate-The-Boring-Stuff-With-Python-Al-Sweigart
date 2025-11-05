@@ -1,15 +1,15 @@
 # Automate the Boring Stuff with Python (3rd Ed.) – Practice & Notes
 
-This repository contains my **practice scripts** and **solutions** while working through the **3rd Edition** of *Automate the Boring Stuff with Python* by Al Sweigart. 
+This repository contains my practice scripts and solutions while working through the 3rd Edition of Automate the Boring Stuff with Python by Al Sweigart. 
 
-It serves as a practical, hands-on resource for learning **Python fundamentals** and applying them to **real-world automation tasks**. 
+It serves as a practical, hands-on resource for learning Python fundamentals and applying them to real-world automation tasks. 
 
 ---
 
 ## 📂 Repository Structure
 
 Each chapter folder contains:
-- **Practice Scripts/Solutions** (Python files for chapter projects, practice problems, and personal automation scripts)
+- Practice Scripts/Solutions (Python files for chapter projects, practice problems, and personal automation scripts)
 
 ---
 
